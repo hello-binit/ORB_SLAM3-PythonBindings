@@ -9,7 +9,13 @@ This repo has been forked from:
 
 ## Installation
 
-Follow [install.sh](https://github.com/hello-binit/ORB_SLAM3/blob/patch-1/INSTALL.md).
+Install via pip:
+
+```
+pip install orbslam3
+```
+
+Then, follow [install.sh](https://github.com/hello-binit/ORB_SLAM3/blob/patch-1/INSTALL.md).
 
 ## Examples
 
